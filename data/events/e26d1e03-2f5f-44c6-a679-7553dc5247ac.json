@@ -1,0 +1,34 @@
+{
+  "audiovisual_files": {
+    "8ddaf1f9-16d2-448b-981f-274c181cb812": {
+      "label": "Responsabilidad Mediata",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://utexas.box.com/shared/static/zyqup861oz4yyxsfm74toe7xhzq2b4wi.mp4",
+      "duration": 103,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "Memoria abierta",
+  "label": "Responsabilidad Mediata",
+  "av_file_order": [
+    "8ddaf1f9-16d2-448b-981f-274c181cb812"
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/InC/1.0/",
+  "created_at": "2026-03-17T21:19:09.533Z",
+  "created_by": "ceciorti",
+  "updated_at": "2026-03-17T21:19:09.533Z",
+  "updated_by": "ceciorti"
+}
