@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "e26d1e03-2f5f-44c6-a679-7553dc5247ac",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-03-17T21:19:10.060Z",
   "created_by": "ceciorti",
   "title": "Responsabilidad Mediata",
   "slug": "responsabilidad-mediata",
-  "updated_at": "2026-03-17T21:19:10.060Z",
+  "updated_at": "2026-03-17T21:27:42.096Z",
   "updated_by": "ceciorti",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "e26d1e03-2f5f-44c6-a679-7553dc5247ac"
   }
